@@ -1,3 +1,3 @@
 # Rohit-Demo-
-Testing repository
-demo perpose
+## Learning GitHub Desktop
+This is my first repository push 🚀
